@@ -1,0 +1,14 @@
+{
+  "name": "lisandropodesta-canvas-tool",
+  "description": "Canvas tool, primitives serializer",
+  "version": "0.0.1",
+  "keywords": [
+    "HTML5",
+    "canvas"
+  ],
+  "dependencies": {
+    "lisandropodesta-type-tool": "git://github.com/npmcomponent/lisandropodesta-type-tool.git",
+    "component-autoscale-canvas": "git://github.com/npmcomponent/component-autoscale-canvas.git"
+  },
+  "license": "MIT"
+}
